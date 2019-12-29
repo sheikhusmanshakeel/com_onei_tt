@@ -1,0 +1,7 @@
+power_measurement_file: C:/Users/sheik/Documents/Academics/Code/com_onei_tt/power_measurements_2019-11-25.csv
+from_date: 20191125
+to_date: 20191126
+api_url: "https://api.carbonintensity.org.uk/intensity/{0}/{1}"
+variable: "power"
+asset_id: "abc123xyz"
+output_file_location: C:/Users/sheik/Documents/Academics/Code/com_onei_tt/cov.csv
